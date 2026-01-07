@@ -10,7 +10,7 @@ Stay tuned — the source code and full documentation will be **made public soon
 
 ### 🛠️ Status
 - Development: **In Progress**
-- Public Release: **Coming Soon**
+- Public Release: **30/01/2026**
 - License: **To be announced**
 
 ---
